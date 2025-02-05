@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "nextjs-turborepo-template",
   "private": true,
   "scripts": {
     "build": "turbo build",
